@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szymo\\source\\repos\\MapCreator\\MapCreator.csproj": {}
+    "C:\\Users\\szymo\\Source\\Repos\\Kimonsz\\MapCreator\\MapCreator\\MapCreator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szymo\\source\\repos\\MapCreator\\MapCreator.csproj": {
+    "C:\\Users\\szymo\\Source\\Repos\\Kimonsz\\MapCreator\\MapCreator\\MapCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szymo\\source\\repos\\MapCreator\\MapCreator.csproj",
+        "projectUniqueName": "C:\\Users\\szymo\\Source\\Repos\\Kimonsz\\MapCreator\\MapCreator\\MapCreator.csproj",
         "projectName": "MapCreator",
-        "projectPath": "C:\\Users\\szymo\\source\\repos\\MapCreator\\MapCreator.csproj",
+        "projectPath": "C:\\Users\\szymo\\Source\\Repos\\Kimonsz\\MapCreator\\MapCreator\\MapCreator.csproj",
         "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szymo\\source\\repos\\MapCreator\\obj\\",
+        "outputPath": "C:\\Users\\szymo\\Source\\Repos\\Kimonsz\\MapCreator\\MapCreator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

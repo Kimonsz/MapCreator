@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Zg6XDMwvvm4VvLZuF7Ap0i8cdrNCVBSmbDGeUCDw9dS/K9KanGk08ChvnB9l/yZI7yrYsJM7oEN20vzynrsEyg==",
+  "dgSpecHash": "EhyTuzoZBha7kFIZV/LGLeeYnDznJjCD2QDFj2hKMZfDUlDRnxINmFLULUkeA3Ovt7QZoznOgnAXVHFnqHOMjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szymo\\source\\repos\\MapCreator\\MapCreator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\szymo\\Source\\Repos\\Kimonsz\\MapCreator\\MapCreator\\MapCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
